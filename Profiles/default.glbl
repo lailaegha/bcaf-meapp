@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>costumIndex</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://mecorporate.idofocus.co.id:25443/login'</initValue>
+      <name>ME_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://192.168.29.146/resume-ahu-sit/'</initValue>
+      <name>AHU_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'20111907'</initValue>
+      <name>AHUUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'20190364'</initValue>
+      <name>CMO</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'20180599'</initValue>
+      <name>BM</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'20170279'</initValue>
+      <name>Checker</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Mobile123+'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'\\Screenshoot\\Sprint4\\Web\\'</initValue>
+      <name>sprint4WebScreenshootPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\savir\\Downloads\\I3 Project\\BCAF\\BCAF Sprint 4\\Assets\\siup-dummy.jpg'</initValue>
+      <name>pathfinder_siup</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\savir\\Downloads\\I3 Project\\BCAF\\BCAF Sprint 4\\Assets\\npwp-dummy.jpg'</initValue>
+      <name>pathfinder_npwp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\savir\\Downloads\\I3 Project\\BCAF\\BCAF Sprint 4\\Assets\\tdp-dummy.jpg'</initValue>
+      <name>pathfinder_tdp</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
